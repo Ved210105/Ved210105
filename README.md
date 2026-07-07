@@ -111,12 +111,7 @@ Agile · Jira · Modular & maintainable code · Unit testing · Peer review · S
 B.Tech, Computer Science — CGPA 8.889/10 · Expected 2026
 *Coursework:* Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · Software Engineering · OOP · Machine Learning · Distributed Systems
 
----
 
-## 📈 GitHub Stats
-
-![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ved210105&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved210105&layout=compact&theme=radical)
 
 ---
 
